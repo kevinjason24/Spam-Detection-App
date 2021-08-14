@@ -1,6 +1,6 @@
-# SMS-Spam-Detection-App
+# Spam-Detection-App
 #### Description
-+ ML sms spam detection app built with streamlit framework.
++ ML spam detection app built with streamlit framework.
 
 #### To Install Streamlit
 ```bash

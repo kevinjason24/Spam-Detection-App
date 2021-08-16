@@ -1,6 +1,6 @@
 # Spam-Detection-App
 #### Description
-+ ML spam detection app built with streamlit framework.
++ An ML app build with streamlit framework and implemented multinomial Naïve Bayes algorithm to detect whether the message or email is spam or not.
 
 #### To Install Streamlit
 ```bash
